@@ -1,5 +1,5 @@
 # hello-world
-Jsut another repository
+Just another repository
 
 《我和这个世界不熟》
 
